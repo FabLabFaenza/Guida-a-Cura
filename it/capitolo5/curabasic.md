@@ -1,0 +1,5 @@
+# 5: ++CURA/Basic++
+---
+
+######CAPITOLO 5
+#### QUALITY / FILL / SPEED AND TEMPERATURE / SUPPORT / FILAMENT

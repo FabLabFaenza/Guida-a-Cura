@@ -1,4 +1,8 @@
-## 2: Dove Trovarlo?
+# 2: ++Dove Trovarlo?++
+---
+
+######CAPITOLO 2
+
 
 Cura è disponibile sul sito [software.ultimaker.com](software.ultimaker.com).
 L’installazione è molto semplice e include inoltre i driver Arduino.
