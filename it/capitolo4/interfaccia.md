@@ -9,14 +9,15 @@ L’interfaccia di Cura si divide in:
 2. Schede di configurazione
 3. Anteprima file
 
-[fig. 5](img/figura5.jpg)
+![Image](img/figura5.jpg)
 
 ---
 
 Per prima cosa impostiamo alcuni settaggi:
 
 **Menù: File > Preferences**
-[fig. 6](img/figura6.jpg)
+
+![fig. 6](img/figura6.jpg
 
 ---
 
@@ -25,16 +26,15 @@ Impostiamo alcuni valori utili a sapere quanto ci costerà un pezzo stampato:
 - Densità: 1240
 - Costo al kg: 35
 - Costo al m: 0.35
+# 
+_ _ _
 
 
----
-
-
-######*++Nota Bene:++*
+####### NOTA BENE:
 
 *Questi valori si riferiscono al PLA al costo di 35 Euro al Kg.*
 
----
+_ _ _
 # 
 
 Le schede di configurazione si dividono in:

@@ -1,0 +1,9 @@
+# 8: ++CURA: START - END GCODE++
+---
+
+######CAPITOLO 8
+#### GCODE / START / END / PIMP MY PRINTER
+
+# 
+
+
